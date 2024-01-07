@@ -29,3 +29,6 @@ a {
   background-color: #707070;
 }
 
+.dark\:bg-landing-packages-dark {
+  background-image: url(/assets/landing-noise.webp) ,radial-gradient(50% 100% at 50% -40%,#47ebeb26 0,#47ebeb00 100%);
+}
